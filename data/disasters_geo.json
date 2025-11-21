@@ -1,0 +1,3116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "year": "2025",
+        "disaster": "Floods",
+        "article": "July 2025 Central Texas floods",
+        "location": "Central Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.802101,
+          39.063946
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "year": "2025",
+        "disaster": "Floods",
+        "article": "May 2025 Mid-Atlantic floods",
+        "location": "Maryland,North Carolina,Virginia,West Virginia,Pennsylvania,Washington, DC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "year": "2025",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of March 13–16, 2025",
+        "location": "Southern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "year": "2025",
+        "disaster": "Wildfire",
+        "article": "2025 Southern California wildfires",
+        "location": "Southern California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "year": "2024",
+        "disaster": "Hurricane",
+        "article": "Hurricane Milton",
+        "location": "Florida,Georgia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "year": "2024",
+        "disaster": "Hurricane",
+        "article": "Hurricane Helene",
+        "location": "Florida,Georgia,South Carolina,North Carolina,Tennessee,Virginia,Ohio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0,
+          15.0
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "year": "2024",
+        "disaster": "Hurricane",
+        "article": "Hurricane Beryl",
+        "location": "Caribbean,Venezuela,Yucatán Peninsula, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "year": "2024",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak sequence of May 19–27, 2024",
+        "location": "Southern United States,Midwestern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "year": "2023",
+        "disaster": "Hurricane",
+        "article": "Hurricane Idalia",
+        "location": "Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.498337,
+          21.094318
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "year": "2023",
+        "disaster": "Wildfire",
+        "article": "2023 Hawaii wildfires",
+        "location": "Hawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "year": "2023",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of March 31 – April 1, 2023",
+        "location": "Southern United States,Midwestern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "year": "2023",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of March 24–27, 2023",
+        "location": "Southern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "year": "2023",
+        "disaster": "FloodingandTornado outbreak",
+        "article": "Early-March 2023 North American storm complex",
+        "location": "Southwestern United States,Southeastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "year": "2023",
+        "disaster": "Derecho,Tornado outbreakandWinter storm",
+        "article": "February 2023 North American storm complex",
+        "location": "Western United States,Southern United StatesandMidwestern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "year": "2022",
+        "disaster": "Winter storm",
+        "article": "December 2022 North American winter storm",
+        "location": "Western United States,Midwestern United States,Great Lakes region(especially theBuffalo-Niagara Falls metropolitan area),Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "year": "2022",
+        "disaster": "Earthquake",
+        "article": "2022 Ferndale earthquake",
+        "location": "North Coast, California, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "year": "2022",
+        "disaster": "Winter storm",
+        "article": "November 2022 Great Lakes winter storm",
+        "location": "Great Lakes region(especially theBuffalo-Niagara Falls metropolitan area)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5901,
+          18.2208
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "year": "2022",
+        "disaster": "Hurricane",
+        "article": "Hurricane Nicole",
+        "location": "Dominican Republic,Puerto Rico,The Bahamas,Southeastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "year": "2022",
+        "disaster": "Hurricane",
+        "article": "Hurricane Ian",
+        "location": "Trinidad and Tobago,Venezuela,Colombia,ABC islands,Jamaica,Cayman Islands,Cuba, Southeast United States (especiallyFloridaandThe Carolinas)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5901,
+          18.2208
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "year": "2022",
+        "disaster": "Hurricane",
+        "article": "Hurricane Fiona",
+        "location": "Puerto Rico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "year": "2022",
+        "disaster": "Flood",
+        "article": "July–August 2022 United States floods",
+        "location": "Greater St. Louis, CentralAppalachia,Southernand Southwestern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.454353,
+          46.921925
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "year": "2022",
+        "disaster": "Flood",
+        "article": "2022 Montana floods",
+        "location": "Montana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "year": "2022",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of April 4–7, 2022",
+        "location": "Southern United States,Midwestern United States,Eastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "year": "2022",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of March 29–31, 2022",
+        "location": "Southern United States,Midwestern United States,Eastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0,
+          31.0
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "year": "2022",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of March 21–23, 2022",
+        "location": "Southern United States,Eastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "year": "2022",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of March 5–7, 2022",
+        "location": "Midwestern United States,Mississippi Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "year": "2022",
+        "disaster": "Winter storm",
+        "article": "February 2022 North American winter storm",
+        "location": "Central,Southeastern,Northeastern, andMidwestern United States,Northern Mexico,Nova Scotia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "year": "2022",
+        "disaster": "Blizzard",
+        "article": "January 2022 North American blizzard",
+        "location": "Northeastern United States,New England,Maritime Provincesof Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "year": "2021",
+        "disaster": "Derechoandtornado outbreak",
+        "article": "December 2021 Midwest derecho and tornado outbreak",
+        "location": "Western United States,Midwestern United States,Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "year": "2021",
+        "disaster": "Wildfire",
+        "article": "2021 Kansas wildfire outbreak",
+        "location": "Kansas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "year": "2021",
+        "disaster": "Tornado",
+        "article": "Tornado outbreak of December 10–11, 2021",
+        "location": "Kentucky,Illinois,Tennessee,Missouri,Arkansas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.670067,
+          37.66814
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "year": "2021",
+        "disaster": "Tornado",
+        "article": "2021 Western Kentucky tornado",
+        "location": "Western Kentucky,United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "year": "2021",
+        "disaster": "Flood",
+        "article": "November 2021 Pacific Northwest floods",
+        "location": "SouthernBritish Columbia, CanadaNorthwesternWashington, United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "year": "2021",
+        "disaster": "Bomb cyclone",
+        "article": "October 2021 Northeast Pacific bomb cyclone",
+        "location": "Russian Far East,Japan,Alaska,Western United States,Western Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "year": "2021",
+        "disaster": "Hurricane",
+        "article": "Hurricane Ida",
+        "location": "United States(especially inLouisiana,New Jersey,Gulf Coast of the United States,Northeastern United States),Cuba,Venezuela,Colombia,Jamaica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          45.0
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "year": "2021",
+        "disaster": "Heat wave",
+        "article": "2021 Western North America heat wave",
+        "location": "Western North America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "year": "2021",
+        "disaster": "Floodsandtornado outbreak",
+        "article": "Midwestern U.S. floods and tornado outbreak of June 2021",
+        "location": "Midwestern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "year": "2021",
+        "disaster": "Winter storm",
+        "article": "February 15–20, 2021 North American winter storm",
+        "location": "Western United States,Southern Plains,Deep South,Northeastern United States,Atlantic Canada,British Isles,Iceland,Faroe Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "year": "2021",
+        "disaster": "Winter storm",
+        "article": "February 13–17, 2021 North American winter storm",
+        "location": "United States(especially inTexas, northernMexico)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "year": "2021",
+        "disaster": "Nor'easter",
+        "article": "January 31 – February 3, 2021 nor'easter",
+        "location": "Western United States,Central United States,Mid-Atlantic states,Northeastern United States,Southeastern United States,Eastern Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "year": "2020",
+        "disaster": "Wildfire",
+        "article": "2020 Western United States wildfire season",
+        "location": "Western United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "year": "2020",
+        "disaster": "Wildfire",
+        "article": "2020 California wildfires",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "year": "2020",
+        "disaster": "Derecho",
+        "article": "August 2020 Midwest derecho",
+        "location": "Midwestern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Eta",
+        "location": "Colombia,Jamaica,Central America,Cayman Islands,Cuba,The Bahamas,Southeastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Zeta",
+        "location": "Cayman Islands,Jamaica,Central America,Yucatán Peninsula,Gulf Coast of the United States,Southeastern United States,Mid-Atlantic,New England,Ireland,United Kingdom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Delta",
+        "location": "Jamaica,Nicaragua,Cayman Islands,Yucatán Peninsula,Gulf Coast of the United States,Southeastern United States,Northeastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Sally",
+        "location": "The Bahamas,Cuba,U.S. Gulf Coast,Southeastern United States,Norway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Laura",
+        "location": "Lesser Antilles,Greater Antilles,The Bahamas,Gulf Coast of the United States,Midwestern United States,Eastern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Isaias",
+        "location": "West Africa,Lesser Antilles,Greater Antilles,The Bahamas,East Coast of the United States,Eastern Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "year": "2020",
+        "disaster": "Hurricane",
+        "article": "Hurricane Hanna",
+        "location": "Cuba,Hispaniola,Gulf Coast(mainlyTexas),Mexico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "year": "2019",
+        "disaster": "Tropical storm",
+        "article": "Tropical Storm Imelda",
+        "location": "Texas,Louisiana,Oklahoma,Arkansas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "year": "2019",
+        "disaster": "Earthquake",
+        "article": "2019 Ridgecrest earthquakes",
+        "location": "California,Nevada,Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "year": "2019",
+        "disaster": "Hurricane",
+        "article": "Hurricane Dorian",
+        "location": "Lesser Antilles,Puerto Rico,The Bahamas(especially theAbaco IslandsandGrand Bahama),Eastern United States(especiallyFlorida,Georgia,South Carolina, andNorth Carolina),Eastern Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "year": "2018",
+        "disaster": "Wildfire",
+        "article": "2018 California wildfires",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "year": "2018",
+        "disaster": "Wildfire",
+        "article": "Camp Fire",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "year": "2018",
+        "disaster": "Hurricane",
+        "article": "Hurricane Michael",
+        "location": "Central America,Yucatán Peninsula,Cayman Islands,Cuba,Southeastern United States(especially theFlorida PanhandleandGeorgia),Eastern United States,Eastern Canada,Iberian Peninsula"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "year": "2018",
+        "disaster": "Hurricane",
+        "article": "Hurricane Florence",
+        "location": "West Africa,Cape Verde,Bermuda,East Coast of the United States(especially theCarolinas),Atlantic Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.498337,
+          21.094318
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "year": "2018",
+        "disaster": "Hurricane",
+        "article": "Hurricane Lane",
+        "location": "Hawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "year": "2017",
+        "disaster": "Wildfire",
+        "article": "2017 California wildfires",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "year": "2017",
+        "disaster": "Wildfire",
+        "article": "Goodwin Fire",
+        "location": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "year": "2017",
+        "disaster": "Hurricane",
+        "article": "Hurricane Maria",
+        "location": "FloridaandPuerto Rico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "year": "2017",
+        "disaster": "Hurricane",
+        "article": "Hurricane Irma",
+        "location": "Florida,South Carolina,Georgia,Puerto Rico"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "year": "2017",
+        "disaster": "HurricaneandFlood",
+        "article": "Hurricane Harvey",
+        "location": "Texas,Louisiana,Alabama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "year": "2017",
+        "disaster": "Winter stormandflood",
+        "article": "2017 California floods",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "year": "2017",
+        "disaster": "Flood",
+        "article": "2017 Payson flash floods",
+        "location": "Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.692345,
+          35.747845
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "year": "2016",
+        "disaster": "Wildfire",
+        "article": "2016 Great Smoky Mountains wildfires",
+        "location": "Tennessee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "year": "2016",
+        "disaster": "Hurricane",
+        "article": "Hurricane Matthew",
+        "location": "Florida,Georgia,The Carolinas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "year": "2016",
+        "disaster": "Flood",
+        "article": "2016 Louisiana floods",
+        "location": "Louisiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.169968,
+          37.769337
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "year": "2016",
+        "disaster": "Flood",
+        "article": "2016 West Virginia flood",
+        "location": "West Virginia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "year": "2016",
+        "disaster": "Blizzard",
+        "article": "January 2016 United States blizzard",
+        "location": "Southeast through the Mid-Atlantic to the Northeast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0,
+          35.5
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "year": "2015",
+        "disaster": "Flood",
+        "article": "October 2015 North American storm complex",
+        "location": "Carolinas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.862434,
+          40.150032
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "year": "2015",
+        "disaster": "Flood",
+        "article": "2015 Utah floods",
+        "location": "Utah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "year": "2015",
+        "disaster": "Wildfire",
+        "article": "Okanogan Complex fire",
+        "location": "Okanogan County, Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "year": "2015",
+        "disaster": "Flood",
+        "article": "2015 Texas–Oklahoma floods",
+        "location": "Texas, Kansas, Oklahoma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "year": "2014",
+        "disaster": "Snow storm",
+        "article": "November 2014 North American winter storm",
+        "location": "Buffalo, New York, Great Lakes region"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "year": "2014",
+        "disaster": "Tornado",
+        "article": "April 2014 tornado outbreak",
+        "location": "Nebraska,Louisiana,Oklahoma,Illinois,Florida,North Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "year": "2014",
+        "disaster": "Mudflow",
+        "article": "2014 Oso mudslide",
+        "location": "Oso, Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "year": "2013 / 2014",
+        "disaster": "Cold wave",
+        "article": "Early 2014 North American cold wave",
+        "location": "Eastern US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "year": "2013",
+        "disaster": "Wildfire",
+        "article": "Yarnell Hill Fire",
+        "location": "Yarnell, Arizona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "year": "2013",
+        "disaster": "Flood",
+        "article": "2013 Colorado floods",
+        "location": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.928917,
+          35.565342
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "year": "2013",
+        "disaster": "Tornado",
+        "article": "2013 Moore tornado",
+        "location": "Moore, Oklahoma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "year": "2013",
+        "disaster": "Blizzard",
+        "article": "February 2013 nor'easter",
+        "location": "Eastern US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "year": "2012",
+        "disaster": "Wildfire",
+        "article": "2012 Colorado wildfires",
+        "location": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "year": "2012",
+        "disaster": "Hurricane",
+        "article": "Hurricane Sandy",
+        "location": "Eastern US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "year": "2011",
+        "disaster": "Tornado",
+        "article": "2011 Joplin tornado",
+        "location": "Joplin, Missouri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "year": "2011",
+        "disaster": "Hurricane",
+        "article": "Hurricane Irene",
+        "location": "North Carolina,New York,New Jersey,Vermont,Florida,East Coast of the United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "year": "2011",
+        "disaster": "Tornado",
+        "article": "2011 Super Outbreak",
+        "location": "Alabama,Tennessee,Mississippi,Georgia,ArkansasandVirginia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.678696,
+          32.741646
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "year": "2011",
+        "disaster": "Flood",
+        "article": "2011 Mississippi River floods",
+        "location": "Mississippi River Valley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "year": "2010",
+        "disaster": "Blizzard",
+        "article": "February 5–6, 2010 North American blizzard",
+        "location": "16 states in Eastern US"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "year": "2010",
+        "disaster": "Flood",
+        "article": "June 2010 Arkansas floods",
+        "location": "nearLangley, Arkansas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "year": "2009",
+        "disaster": "Snow storm",
+        "article": "December 2009 North American blizzard",
+        "location": "East Coast of the United States,New York,New Jersey,New England,Virginia,North Carolina,Atlantic Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -170.132,
+          -14.271
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "year": "2009",
+        "disaster": "Tsunami",
+        "article": "2009 Samoa earthquake and tsunami",
+        "location": "American Samoaand nearby islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 93,
+        "year": "2008",
+        "disaster": "Hurricane",
+        "article": "Hurricane Ike",
+        "location": "Southeast Texas,Texas,Louisiana,Southern United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 94,
+        "year": "2008",
+        "disaster": "Hurricane",
+        "article": "Hurricane Gustav",
+        "location": "Louisiana,Mississippi,Alabama,Texas,Arkansas,Oklahoma"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 95,
+        "year": "2008",
+        "disaster": "Tornado",
+        "article": "2008 Super Tuesday tornado outbreak",
+        "location": "Tennessee,Arkansas,Kentucky,Alabama, andIllinois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 96,
+        "year": "2007",
+        "disaster": "Wildfire",
+        "article": "October 2007 California wildfires",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 97,
+        "year": "2006",
+        "disaster": "Wildfires",
+        "article": "2006 California wildfires",
+        "location": "Southern California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "id": 98,
+        "year": "2006",
+        "disaster": "Snow storm",
+        "article": "Lake Storm \"Aphid\"",
+        "location": "Buffalo, New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 99,
+        "year": "2005",
+        "disaster": "Hurricane",
+        "article": "Hurricane Wilma",
+        "location": "Florida,East Coast of the United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 100,
+        "year": "2005",
+        "disaster": "Hurricane",
+        "article": "Hurricane Katrina",
+        "location": "Florida,Louisiana,Mississippi,Alabama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 101,
+        "year": "2005",
+        "disaster": "Hurricane",
+        "article": "Hurricane Rita",
+        "location": "Louisiana,Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 102,
+        "year": "2005",
+        "disaster": "Hurricane",
+        "article": "Hurricane Dennis",
+        "location": "Florida, Southeastern U.S"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "id": 103,
+        "year": "2005",
+        "disaster": "Tornado",
+        "article": "Evansville Tornado of November 2005",
+        "location": "Missouri,Indiana,Kentucky,Ohio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 104,
+        "year": "2004",
+        "disaster": "Hurricane",
+        "article": "Hurricane Ivan",
+        "location": "Texas, Florida, East Coast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 105,
+        "year": "2004",
+        "disaster": "Hurricane",
+        "article": "Hurricane Jeanne",
+        "location": "Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 106,
+        "year": "2004",
+        "disaster": "Hurricane",
+        "article": "Hurricane Frances",
+        "location": "Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 107,
+        "year": "2004",
+        "disaster": "Hurricane",
+        "article": "Hurricane Charley",
+        "location": "Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.802101,
+          39.063946
+        ]
+      },
+      "properties": {
+        "id": 108,
+        "year": "2003",
+        "disaster": "Hurricane",
+        "article": "Hurricane Isabel",
+        "location": "East Coast of the United States,Virginia,Maryland,Pennsylvania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 109,
+        "year": "2003",
+        "disaster": "Wildfire",
+        "article": "Cedar Fire",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 110,
+        "year": "2001",
+        "disaster": "Hurricane",
+        "article": "Tropical Storm Allison",
+        "location": "Texas,Louisiana,Pennsylvania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 111,
+        "year": "1999",
+        "disaster": "Hurricane",
+        "article": "Hurricane Floyd",
+        "location": "East Coast of the United States,Atlantic Canada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 112,
+        "year": "1999",
+        "disaster": "Heat wave",
+        "article": "",
+        "location": "MidwestandNortheast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "id": 113,
+        "year": "1999",
+        "disaster": "Tornado",
+        "article": "1999 Oklahoma tornado outbreak",
+        "location": "Oklahoma,Kansas, Texas,Tennessee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "id": 114,
+        "year": "1998 / 1999",
+        "disaster": "Landslide",
+        "article": "Aldercrest-Banyon landslide",
+        "location": "Kelso, Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 115,
+        "year": "1998",
+        "disaster": "Blizzard",
+        "article": "North American ice storm of 1998",
+        "location": "Canada and Northeast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "id": 116,
+        "year": "1997",
+        "disaster": "Flood",
+        "article": "1997 Red River flood",
+        "location": "North Dakota,Minnesota, SouthernManitoba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 117,
+        "year": "1996",
+        "disaster": "Flood",
+        "article": "Willamette Valley flood of 1996",
+        "location": "Washington,Oregon,Idaho, California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      },
+      "properties": {
+        "id": 118,
+        "year": "1995",
+        "disaster": "Heat wave",
+        "article": "Chicago heat wave of 1995",
+        "location": "Chicago, Illinois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 119,
+        "year": "1995",
+        "disaster": "Flood",
+        "article": "May 8, 1995 Louisiana flood",
+        "location": "New Orleans, Louisiana, area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 120,
+        "year": "1994",
+        "disaster": "Earthquake",
+        "article": "Northridge earthquake",
+        "location": "Greater Los Angeles area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 121,
+        "year": "1993",
+        "disaster": "Blizzard",
+        "article": "Storm of the Century",
+        "location": "East Coast of North and Central America"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 122,
+        "year": "1993",
+        "disaster": "Flood",
+        "article": "Great Flood of 1993",
+        "location": "Midwest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.498337,
+          21.094318
+        ]
+      },
+      "properties": {
+        "id": 123,
+        "year": "1992",
+        "disaster": "Hurricane",
+        "article": "Hurricane Iniki",
+        "location": "Hawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 124,
+        "year": "1992",
+        "disaster": "Hurricane",
+        "article": "Hurricane Andrew",
+        "location": "Florida andLouisiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 125,
+        "year": "1991",
+        "disaster": "Wildfire",
+        "article": "Oakland Hills fire",
+        "location": "San Francisco Bay Area, California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      },
+      "properties": {
+        "id": 126,
+        "year": "1990",
+        "disaster": "Tornado",
+        "article": "1990 Plainfield tornado",
+        "location": "Plainfield, IllinoisCrest Hill, Illinois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 127,
+        "year": "1989",
+        "disaster": "Earthquake",
+        "article": "Loma Prieta earthquake",
+        "location": "San Francisco Bay Area, California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.0,
+          15.0
+        ]
+      },
+      "properties": {
+        "id": 128,
+        "year": "1989",
+        "disaster": "Hurricane",
+        "article": "Hurricane Hugo",
+        "location": "Caribbeanand Eastern North America."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5,
+          39.8
+        ]
+      },
+      "properties": {
+        "id": 129,
+        "year": "1988",
+        "disaster": "Heat waveandDrought",
+        "article": "1988-89 North American drought",
+        "location": "Widespread; 45% of the nation affected"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.30249,
+          42.755966
+        ]
+      },
+      "properties": {
+        "id": 130,
+        "year": "1988",
+        "disaster": "Wildfire",
+        "article": "Yellowstone fires of 1988",
+        "location": "Yellowstone National Park, Wyoming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 131,
+        "year": "1985",
+        "disaster": "Hurricane",
+        "article": "Hurricane Elena",
+        "location": "Florida, Alabama, Mississippi, Louisiana, Arkansas, Kentucky"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.521011,
+          40.298904
+        ]
+      },
+      "properties": {
+        "id": 132,
+        "year": "1985",
+        "disaster": "Hurricane",
+        "article": "Hurricane Gloria",
+        "location": "New York, New Jersey, North Carolina, New England"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 133,
+        "year": "1983",
+        "disaster": "Hurricane",
+        "article": "Hurricane Alicia",
+        "location": "Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 134,
+        "year": "1980",
+        "disaster": "Hurricane",
+        "article": "Hurricane Allen",
+        "location": "South Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "id": 135,
+        "year": "1980",
+        "disaster": "Heat wave",
+        "article": "1980 United States heat wave",
+        "location": "Central and southern states"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "id": 136,
+        "year": "1980",
+        "disaster": "Volcano",
+        "article": "1980 eruption of Mount St. Helens",
+        "location": "Washington state"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.948051,
+          42.165726
+        ]
+      },
+      "properties": {
+        "id": 137,
+        "year": "1977",
+        "disaster": "Blizzard",
+        "article": "Great Lakes Blizzard of 1977",
+        "location": "New York andOntario(esp.Buffalo, New York)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.311104,
+          39.059811
+        ]
+      },
+      "properties": {
+        "id": 138,
+        "year": "1976",
+        "disaster": "Flood",
+        "article": "Big Thompson Canyon Flood of 1976",
+        "location": "Colorado"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 139,
+        "year": "1974",
+        "disaster": "Tornado",
+        "article": "1974 Super Outbreak",
+        "location": "Ontario,Illinois,Indiana,Michigan,Ohio,Kentucky,Tennessee,Alabama,Mississippi,Georgia,North Carolina,Virginia,West Virginiaand New York"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.438828,
+          44.299782
+        ]
+      },
+      "properties": {
+        "id": 140,
+        "year": "1972",
+        "disaster": "Flood",
+        "article": "1972 Rapid City Flood",
+        "location": "Rapid City, South Dakota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 141,
+        "year": "1971",
+        "disaster": "Earthquake",
+        "article": "Sylmar earthquake",
+        "location": "Greater Los Angeles area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 142,
+        "year": "1970",
+        "disaster": "Tornado",
+        "article": "Lubbock Tornado",
+        "location": "Lubbock, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 143,
+        "year": "1969",
+        "disaster": "Hurricane",
+        "article": "Hurricane Camille",
+        "location": "Mississippi,AlabamaandVirginia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.258278,
+          39.849426
+        ]
+      },
+      "properties": {
+        "id": 144,
+        "year": "1965",
+        "disaster": "Tornado",
+        "article": "Palm Sunday Tornado Outbreak",
+        "location": "Iowa,Ohio,Michigan,Indiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      },
+      "properties": {
+        "id": 145,
+        "year": "1964",
+        "disaster": "TsunamiandEarthquake",
+        "article": "Good Friday earthquake",
+        "location": "Alaska, Hawaii,Oregon, California, British Columbia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      },
+      "properties": {
+        "id": 146,
+        "year": "1960",
+        "disaster": "Tsunami",
+        "article": "Great Chilean earthquake",
+        "location": "Hawaii,Alaska"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.784012,
+          47.528912
+        ]
+      },
+      "properties": {
+        "id": 147,
+        "year": "1957",
+        "disaster": "Tornado",
+        "article": "1957 Fargo tornado",
+        "location": "Fargo, ND"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 148,
+        "year": "1953",
+        "disaster": "Tornado",
+        "article": "Waco Tornado of 1953",
+        "location": "Waco, TX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.726486,
+          38.5266
+        ]
+      },
+      "properties": {
+        "id": 149,
+        "year": "1951",
+        "disaster": "Flood",
+        "article": "Great Flood of 1951",
+        "location": "KansasandMissouri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 150,
+        "year": "1950",
+        "disaster": "Blizzard",
+        "article": "Great Appalachian Storm of November 1950",
+        "location": "Eastern US states"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -152.404419,
+          61.370716
+        ]
+      },
+      "properties": {
+        "id": 151,
+        "year": "1946",
+        "disaster": "TsunamiandEarthquake",
+        "article": "Aleutian Island earthquake",
+        "location": "AlaskaandHawaii"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0,
+          33.0
+        ]
+      },
+      "properties": {
+        "id": 152,
+        "year": "1946",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of January 4–6, 1946",
+        "location": "South–Central United States"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.79113,
+          32.806671
+        ]
+      },
+      "properties": {
+        "id": 153,
+        "year": "1945",
+        "disaster": "Tornado outbreak",
+        "article": "Tornado outbreak of February 12, 1945",
+        "location": "Alabama and Mississippi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0,
+          41.5
+        ]
+      },
+      "properties": {
+        "id": 154,
+        "year": "1940",
+        "disaster": "Blizzard",
+        "article": "Armistice Day Blizzard",
+        "location": "North and Central Midwest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5,
+          42.5
+        ]
+      },
+      "properties": {
+        "id": 155,
+        "year": "1938",
+        "disaster": "Hurricane",
+        "article": "Great New England Hurricane",
+        "location": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 156,
+        "year": "1938",
+        "disaster": "Flood",
+        "article": "Los Angeles Flood of 1938",
+        "location": "Los Angeles"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      },
+      "properties": {
+        "id": 157,
+        "year": "1937",
+        "disaster": "Flood",
+        "article": "Ohio River flood of 1937",
+        "location": "Ohio,Kentucky,Indiana,Illinois"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "id": 158,
+        "year": "1936",
+        "disaster": "Flood",
+        "article": "Pittsburgh Flood 1936",
+        "location": "Pittsburgh, Pennsylvania, area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 159,
+        "year": "1935",
+        "disaster": "Hurricane",
+        "article": "Labor Day Hurricane of 1935",
+        "location": "Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0,
+          39.0
+        ]
+      },
+      "properties": {
+        "id": 160,
+        "year": "1931 to 1939",
+        "disaster": "Drought",
+        "article": "Dust Bowl",
+        "location": "Great Plains"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 161,
+        "year": "1928",
+        "disaster": "Hurricane",
+        "article": "1928 Okeechobee Hurricane",
+        "location": "Leeward Islands,Puerto Rico, theBahamas, and Florida"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.373123,
+          34.969704
+        ]
+      },
+      "properties": {
+        "id": 162,
+        "year": "1927",
+        "disaster": "Flood",
+        "article": "Great Mississippi Flood of 1927",
+        "location": "Arkansas,Illinois,Kentucky,Louisiana,Mississippi, andTennessee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.802101,
+          39.063946
+        ]
+      },
+      "properties": {
+        "id": 163,
+        "year": "1926",
+        "disaster": "Tornado",
+        "article": "La Plata Tornado of 1926",
+        "location": "La Plata, Maryland"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.986137,
+          40.349457
+        ]
+      },
+      "properties": {
+        "id": 164,
+        "year": "1925",
+        "disaster": "Tornado",
+        "article": "Tri-State Tornado",
+        "location": "Missouri,IllinoisandIndiana(Kentucky,Tennessee)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.686783,
+          27.766279
+        ]
+      },
+      "properties": {
+        "id": 165,
+        "year": "1919",
+        "disaster": "Hurricane",
+        "article": "1919 Florida Keys Hurricane",
+        "location": "Florida, Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "id": 166,
+        "year": "1918",
+        "disaster": "Wildfire",
+        "article": "1918 Cloquet fire",
+        "location": "Minnesota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "id": 167,
+        "year": "1913",
+        "disaster": "Flood",
+        "article": "1913 (Ohio) Statewide Flood",
+        "location": "Southwest, Central, and EasternOhio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.764915,
+          40.388783
+        ]
+      },
+      "properties": {
+        "id": 168,
+        "year": "1913",
+        "disaster": "Flood",
+        "article": "Great Dayton Flood",
+        "location": "Dayton, Ohio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 169,
+        "year": "1913",
+        "disaster": "Blizzard",
+        "article": "Great Lakes Storm of 1913",
+        "location": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 170,
+        "year": "1913",
+        "disaster": "Storm",
+        "article": "Great Lakes Storm of 1913",
+        "location": "Great Lakesarea"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.490494,
+          47.400902
+        ]
+      },
+      "properties": {
+        "id": 171,
+        "year": "1910",
+        "disaster": "Avalanche",
+        "article": "Wellington avalanche",
+        "location": "Wellington, Washington"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.681564,
+          36.116203
+        ]
+      },
+      "properties": {
+        "id": 172,
+        "year": "1906",
+        "disaster": "Earthquakeand fire (urban conflagration)",
+        "article": "1906 San Francisco earthquake",
+        "location": "California"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.563461,
+          31.054487
+        ]
+      },
+      "properties": {
+        "id": 173,
+        "year": "1900",
+        "disaster": "Hurricane",
+        "article": "Galveston Hurricane of 1900",
+        "location": "Texas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.288368,
+          38.456085
+        ]
+      },
+      "properties": {
+        "id": 174,
+        "year": "1896",
+        "disaster": "Tornado",
+        "article": "St. Louis-East St. Louis tornado",
+        "location": "Missouri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.900192,
+          45.694454
+        ]
+      },
+      "properties": {
+        "id": 175,
+        "year": "1894",
+        "disaster": "Wildfire",
+        "article": "Great Hinckley Fire",
+        "location": "Minnesota"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.867805,
+          31.169546
+        ]
+      },
+      "properties": {
+        "id": 176,
+        "year": "1893",
+        "disaster": "Hurricane",
+        "article": "1893 Cheniere Caminada Hurricane",
+        "location": "Louisiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.643074,
+          33.040619
+        ]
+      },
+      "properties": {
+        "id": 177,
+        "year": "1893",
+        "disaster": "Hurricane",
+        "article": "1893 Sea Islands Hurricane",
+        "location": "Georgia,South Carolina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.209755,
+          40.590752
+        ]
+      },
+      "properties": {
+        "id": 178,
+        "year": "1889",
+        "disaster": "Flood",
+        "article": "Johnstown Flood",
+        "location": "Johnstown, Pennsylvania"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          43.0
+        ]
+      },
+      "properties": {
+        "id": 179,
+        "year": "1888",
+        "disaster": "Blizzard",
+        "article": "Great Blizzard of 1888",
+        "location": "Northeast"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.0,
+          46.5
+        ]
+      },
+      "properties": {
+        "id": 180,
+        "year": "1888",
+        "disaster": "Cold wave",
+        "article": "1888 Northwest Cold Wave",
+        "location": "Northwest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.616508,
+          44.268543
+        ]
+      },
+      "properties": {
+        "id": 181,
+        "year": "1871",
+        "disaster": "Wildfire",
+        "article": "Peshtigo fire",
+        "location": "Wisconsin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.431221,
+          33.729759
+        ]
+      },
+      "properties": {
+        "id": 182,
+        "year": "1862",
+        "disaster": "Flood",
+        "article": "Great Flood of 1862",
+        "location": "California,Oregon,Utah, and the territories that now make upArizonaandNevada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0,
+          40.0
+        ]
+      },
+      "properties": {
+        "id": 183,
+        "year": "1816",
+        "disaster": "Famine(caused byvolcano)",
+        "article": "Year Without a Summer",
+        "location": ""
+      }
+    }
+  ]
+}

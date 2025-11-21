@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Disasters Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div id="controls">
+      <div class="header">
+        <h2>Natural Disasters Map</h2>
+        <p class="subtitle">Interactive map of events (click a pin for details)</p>
+      </div>
+
+      <div class="control-row">
+        <label for="search">Search (type or location):</label>
+        <input id="search" placeholder="e.g. Hurricane, California" />
+      </div>
+
+      <div class="control-row">
+        <label for="filter">Filter by disaster type:</label>
+        <select id="filter">
+          <option value="">(all)</option>
+        </select>
+      </div>
+
+      <div class="control-row">
+        <label for="yearRange">Year range:</label>
+        <input id="yearRange" type="range" min="1800" max="2026" value="2026" />
+        <div id="yearLabel">Up to: <span id="yearValue">2026</span></div>
+      </div>
+
+      <p id="status">Loading data…</p>
+      <div class="attribution">Map tiles © OpenStreetMap contributors</div>
+    </div>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>
